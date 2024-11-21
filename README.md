@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sriraj Gangdeb</h1>
 <h3 align="center">A great ,Enthusiastic and aspiring Frontend developer.</h3>
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ0MDZ3aXd2Yjc1d2N4c2tucThzbTM4ZGlkZXphM251bzFxN3Y3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif)
+<p><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ0MDZ3aXd2Yjc1d2N4c2tucThzbTM4ZGlkZXphM251bzFxN3Y3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></p>
 
 
 - 🔭 I’m currently working on **Jatmai Temple Project**
