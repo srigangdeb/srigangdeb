@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sriraj Gangdeb</h1>
 
 <h3 align="center">A great ,Enthusiastic and aspiring Frontend developer.</h3>
-<p><img align="center" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejQ0MDZ3aXd2Yjc1d2N4c2tucThzbTM4ZGlkZXphM251bzFxN3Y3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"></p>
+<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
 
 
 - 🔭 I’m currently working on **Jatmai Temple Project**
