@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://tenor.com/view/hand-waving-hand-emoji-gif-14999877618442267107">, I'm Sriraj Gangdeb</h1>
+<h1 align="center">Hi <img src="https://nickhericks.github.io/hand-wave-animation">, I'm Sriraj Gangdeb</h1>
 
 <h3 align="center">A great ,Enthusiastic and aspiring Frontend developer.</h3>
 <p align="center">
